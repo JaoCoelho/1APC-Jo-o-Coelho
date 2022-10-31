@@ -1,5 +1,5 @@
 body {
-	background: white;
+	background: black;
 	font-size: xx-large; 
 
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,6 +7,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 h1, h5{
   align-items: center;
+  color: white;
 }
 
 
@@ -15,7 +16,17 @@ h1, h5{
   width: 8rem;
 }
 
-.image{
-  width: 100vw;
-  align-items: center;
+.image 
+{
+  display: flex;
+ justify-content: center;
+
+}
+
+.head{ 
+  background-color: white;
+}
+
+.image img{
+margin: 0rem 1rem;
 }
