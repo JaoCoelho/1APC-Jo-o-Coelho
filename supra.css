@@ -1,11 +1,21 @@
 body {
-	background: mediumpurple;
+	background: white;
 	font-size: xx-large; 
 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h5{
+  align-items: center;
+}
 
 
+.logo{
+  height: 8rem; ;
+  width: 8rem;
+}
 
-} 
-div {
-    text-align: center;
-  }
+.image{
+  width: 100vw;
+  align-items: center;
+}
