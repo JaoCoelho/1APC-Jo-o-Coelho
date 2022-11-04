@@ -6,14 +6,18 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1, h5{
-  align-items: center;
+margin: 1rem 2rem;
+  color: white;
+}
+h3{
+  margin: 3rem 0rem;
   color: white;
 }
 
-
 .logo{
-  height: 8rem; ;
-  width: 8rem;
+  height: 9rem; ;
+  width: 9rem;
+  
 }
 
 .image 
@@ -25,8 +29,12 @@ h1, h5{
 
 .head{ 
   background-color: white;
+  height: 9rem;
+  width: 90rem;
+    
 }
 
 .image img{
 margin: 0rem 1rem;
 }
+
